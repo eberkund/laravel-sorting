@@ -1,0 +1,16 @@
+{
+    "name": "eberkund/laravel-sorting",
+    "version": "0.1.0",
+    "description": "Convenient helpers for sorting and pagination in Laravel",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=7.0",
+        "illuminate/support": "5.*"
+    },
+    "autoload": {
+        "files": [
+            "helpers.php"
+        ]
+    }
+}
